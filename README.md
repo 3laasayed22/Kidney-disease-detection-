@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12c7c006-d23a-4881-bf4c-f7884df4e989)# Kidney-disease-detection-
+ Kidney-disease-detection-
 This project leverages artificial intelligence to facilitate kidney disease diagnosis. A Convolutional Neural Network (CNN) was implemented with several optimizations that significantly enhanced the model’s accuracy. As a result, the model achieved an impressive 98.84% accuracy in classification.
 model consists of multiple convolutional layers followed by batch normalization, max pooling, and fully connected (dense) layers. The key features include:
 
