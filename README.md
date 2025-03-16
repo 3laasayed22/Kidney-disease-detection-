@@ -33,15 +33,17 @@ The accuracy plot shows that training and validation accuracy increase steadily,
 
 ### How to Run the Model
 
-1. Install the required dependencies:
-   pip install -r requirements.txt
+1. Install the required dependencies:  
+   pip install -r requirements.txt  
 
-2. Run the application:
-   python app.py
+2. Run the application:  
+   python app.py  
 
-3. Upload a CT scan image for prediction.
+3. open browser at:  
+   http://127.0.0.1:8000
 
-⚠️ Ensure the uploaded image is a CT scan to get accurate results.
+4. Upload a CT scan image for prediction.  
 
+⚠️ Ensure the uploaded image is a CT scan to get accurate results.  
 
 
