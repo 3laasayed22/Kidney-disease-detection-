@@ -31,3 +31,17 @@ The confusion matrix indicates high classification accuracy, with most predictio
 The accuracy plot shows that training and validation accuracy increase steadily, stabilizing near 99%, indicating effective learning. The loss plot demonstrates a rapid decline, confirming that the model minimizes errors efficiently. The small gap between training and validation curves suggests that overfitting is well-controlled.
 
 
+### How to Run the Model
+
+1. Install the required dependencies:
+   pip install -r requirements.txt
+
+2. Run the application:
+   python app.py
+
+3. Upload a CT scan image for prediction.
+
+⚠️ Ensure the uploaded image is a CT scan to get accurate results.
+
+
+
