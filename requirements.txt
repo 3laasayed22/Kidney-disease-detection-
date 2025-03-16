@@ -1,0 +1,8 @@
+flask
+gunicorn
+tensorflow
+pillow
+numpy
+gradio
+opencv-python
+matplotlib
